@@ -1,7 +1,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 <div align="center">
-    <img src="images/img1.png" alt="Output" width="1500" height="500">
+    <img src="Images/img1.png" alt="Output" width="1500" height="500">
   </a>
  </div>
 
